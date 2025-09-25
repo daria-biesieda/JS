@@ -3,7 +3,7 @@
 Hi! I'm Daria, and this is a small project I made for practice.  
 It's a simple runner game inspired by the Google offline Dino game: the dinosaur runs and jumps over cactuses.
 
-![Preview](./dino-screen.png)  
+![Preview](./img/dino-screen.png)  
 
 ## What I did
 I built this game using **HTML, CSS, and JavaScript**.  
