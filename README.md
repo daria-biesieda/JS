@@ -19,9 +19,6 @@ Working on this game helped me:
 - Work with **CSS animations**  
 - Improve my problem-solving and debugging skills  
 
-## How to play
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/dino-game.git
+
 
 
